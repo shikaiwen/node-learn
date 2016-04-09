@@ -1,0 +1,31 @@
+{
+  "name": "kevin-nodejs-learn",
+  "version": "1.0.0",
+  "description": "kevin's nodejs learning pro",
+  "main": "main.js",
+  "dependencies": {
+    "iconv-lite": "^0.4.13",
+    "jquery": "^2.2.2",
+    "node-jquery": "^0.1.0",
+    "line-reader": "^0.4.0",
+    "jsdom": "^8.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shikaiwen/node-learn.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "kevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shikaiwen/node-learn/issues"
+  },
+  "homepage": "https://github.com/shikaiwen/node-learn#readme"
+}
